@@ -20,10 +20,10 @@ $ npm install
 $ npm start
 ```
 ### Some Snippets
-![Extension](last1.png)
-![Extension](last2.png)
-![Extension](last3.png)
-![Extension](last4.png)
+![Extension](last1.PNG)
+![Extension](last2.PNG)
+![Extension](last3.PNG)
+![Extension](last4.PNG)
 
 
 
